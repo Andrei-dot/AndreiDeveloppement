@@ -99,6 +99,23 @@ font-weight: bold;
 font-size: 16px;      
 }
 
+h6 {
+font-family:arial, sans-serif;
+padding-bottom: 6px;
+font-size: 64px;
+font-weight: bold;
+position: relative;
+top: -350px;
+color: #f3532f;
+}
+
+h7 {
+   font-family: Arial, sans-serif;
+   font-size: 15px;
+   font-style: normal;
+   color: white;
+}
+
 p {
 color: #777;
 font-size: 15px;
@@ -342,6 +359,11 @@ height:140px;
 background: url('../res/home.jpg') no-repeat;
 height: 80vh;
 }
+
+.main-services {
+height: 85vh;
+}
+
 
 #particles-js {
 position: absolute;

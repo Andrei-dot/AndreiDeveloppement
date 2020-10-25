@@ -43,6 +43,22 @@ pd {
 	line-height: 21px;
 }
 
+.services-box {
+	margin-left: 55px;
+	margin-bottom: 55px;
+	background-color: #2C2F33;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px -10px rgba(0,0,0,0.75);
+	color: #B3B8CD;
+	padding-top: 480px;
+	position: absolute;
+	width: 1700px;
+	height: 745px;
+	text-align: center;
+	right: -364px; 
+	top: -720px;
+}
+
 .card-extension-cv {
 	margin-left: 55px;
 	margin-bottom: 55px;
@@ -157,7 +173,7 @@ button.primary.ghost {
 }
 
 .skills ul li {
-	border: 1px solid #2D2747;
+	border: 1px solid #23272A;
 	border-radius: 2px;
 	display: inline-block;
 	font-size: 12px;
